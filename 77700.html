@@ -94,7 +94,7 @@ btnA();
 if(l.indexOf('#')>0){
   var h=location.href.split('#')[1];
   if(h!=''){
-    t1.val(h);s.trigger('click');
+    t1.val(h.indexOf('%')===0 ? decodeURIComponent(h) : h);s.trigger('click');
   }
 }
 
