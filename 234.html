@@ -79,12 +79,12 @@ function btnA(){btn.attr('href', 'https://www.facebook.com/sharer/sharer.php?u='
 s.click(function(){
 var t=t1.val(),
     z='';
-for(var k in a){
-  if( t!=''&&a[k].indexOf(t)>=0 ){
+if(t){for(var k in a){
+  if( a[k].toLowerCase().indexOf(t.toLowerCase())>=0 ){
     var c = a[k].split('`');
     z+='<a target=_blank href=http://foodtvbox.pixnet.net/blog/post/'+c[1]+'?m=off>'+c[0]+'</a><br>';
   }
-}
+}}
 y.html(z);
 location.href='#'+t;
 btnA();
@@ -94,6 +94,9 @@ btnA();
 if(l.indexOf('#')>0){
   var h=location.href.split('#')[1];
   if(h!=''){
+    if(h.match(/%[A-Z0-9]/)){
+      h=decodeURIComponent(h);
+    }
     t1.val(h);s.trigger('click');
   }
 }
