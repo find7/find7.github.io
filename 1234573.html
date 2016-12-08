@@ -91,14 +91,19 @@ btnA();
 });
 btnA();
 
+var h;
 if(l.indexOf('#')>0){
-  var h=location.href.split('#')[1];
-  if(h!=''){
-    if(h.match(/%[A-Z0-9]/)){
-      h=decodeURIComponent(h);
-    }
-    t1.val(h);s.trigger('click');
+  h= location.href.split('#')[1];
+}else if(h=l.match('query=.+&')){
+  h=h[0];h=h.substr(6);h=h.substr(0,h.length-1)
+}else if(h=l.match('query=.+$')){
+  h=h[0];h=h.substr(6);
+}
+if(h&&h!=''){
+  if(h.match(/%[A-Z0-9]/)){
+    h=decodeURIComponent(h);
   }
+  t1.val(h);s.trigger('click');
 }
 
 var $w=$(window),w=false,$hd=$('#hd'),$l=$('#l'),$f=$('#f');
