@@ -1,0 +1,500 @@
+   19  py fetch_all_courses.py 
+   20  py fetch_all_courses.py 
+   21  py fetch_all_courses.py 
+   22  ls
+   23  vim course_list.cache.txt 
+   24  vim course_list.cache.txt 
+   25  ls
+   26  py fetch_all_courses.py 
+   27  py
+   28  py fetch_all_courses.py 
+   29  py fetch_all_courses.py 
+   30  py fetch_all_courses.py 
+   31  py fetch_all_courses.py 
+   32  py fetch_all_courses.py 
+   33  py fetch_all_courses.py 
+   34  py fetch_all_courses.py 
+   35  py fetch_all_courses.py 
+   36  py fetch_all_courses.py 
+   37  py
+   38  py fetch_all_courses.py 
+   39  py fetch_all_courses.py 
+   40  py fetch_all_courses.py 
+   41  py fetch_all_courses.py 
+   42  py fetch_all_courses.py 
+   43  py fetch_all_courses.py 
+   44  py fetch_all_courses.py 
+   45  py fetch_all_courses.py 
+   46  py fetch_all_courses.py 
+   47  vim cache_subdomain_design.txt 
+   48  vim cache_subdomain_design.txt 
+   49  mv cache_subdomain_design.txt cache_subdomain_design.js
+   50  vim cache_subdomain_design.js 
+   51  node cache_subdomain_design.js 
+   52  open img/a/Sharon-Milne
+   53  open img/c/how-to-plan-and-storyboard-a-photo-illustration-project.png
+   54  cd img/c
+   55  ls
+   56  open this-is-adobe-xd.png
+   57  u
+   58  u
+   59  ls
+   60  py py fetch_all_courses.py 
+   61  ls
+   62  py fetch_all_courses.py 
+   63  py fetch_all_courses.py 
+   64  ls
+   65  open 1.png 
+   66  vim 1.png 
+   67  rm 1.png 
+   68  py fetch_all_courses.py 
+   69  py fetch_all_courses.py 
+   70  py fetch_all_courses.py 
+   71  mv ~/Downloads/geckodriver ~
+   72  pyf e
+   73  py fetch_all_courses.py 
+   74  py fetch_all_courses.py 
+   75  py fetch_all_courses.py 
+   76  py fetch_all_courses.py 
+   77  py fetch_all_courses.py 
+   78  py fetch_all_courses.py 
+   79  py fetch_all_courses.py 
+   80  py fetch_all_courses.py 
+   81  py fetch_all_courses.py 
+   82  PY fetch_all_courses.py 
+   83  py fetch_all_courses.py 
+   84  py fetch_all_courses.py 
+   85  py fetch_all_courses.py 
+   86  py fetch_all_courses.py 
+   87  py fetch_all_courses.py 
+   88  ls
+   89  ls
+   90  py fetch_all_courses.py 
+   91  ls
+   92  rm 1.png 
+   93  py fetch_all_courses.py 
+   94  py fetch_all_courses.py 
+   95  py fetch_all_courses.py 
+   96  ls
+   97  vim geckodriver.log 
+   98  py fetch_all_courses.py 
+   99  py fetch_all_courses.py 
+  100  py fetch_all_courses.py 
+  101  py fetch_all_courses.py 
+  102  py fetch_all_courses.py 
+  103  cd   adding: qfind.github.io/.git/hooks/update.sample (stored 0%)
+  104    adding: qfind.github.io/.git/index (stored 0%)
+  105    adding: qfind.github.io/.git/info/ (stored 0%)
+  106    adding: qfind.github.io/.git/info/exclude (stored 0%)
+  107    adding: qfind.github.io/.git/logs/ (stored 0%)
+  108    adding: qfind.github.io/.git/logs/HEAD (stored 0%)
+  109    adding: qfind.github.io/.git/logs/refs/ (stored 0%)
+  110    adding: qfind.github.io/.git/logs/refs/heads/ (stored 0%)
+  111    adding: qfind.github.io/.git/logs/refs/heads/master (stored 0%)
+  112    adding: qfind.github.io/.git/logs/refs/remotes/ (stored 0%)
+  113    adding: qfind.github.io/.git/logs/refs/remotes/origin/ (stored 0%)
+  114    adding: qfind.github.io/.git/logs/refs/remotes/origin/master (stored 0%)
+  115    adding: qfind.github.io/.git/objects/ (stored 0%)
+  116    adding: qfind.github.io/.git/objects/15/ (stored 0%)
+  117    adding: qfind.github.io/.git/objects/15/71814a2eb63b2bef81beff6683cfb22d41c420 (stored 0%)
+  118    adding: qfind.github.io/.git/objects/1c/ (stored 0%)
+  119    adding: qfind.github.io/.git/objects/1c/4f47a45ab9efd6e3c02  adding: qfind.github.io/.git/objects/1c/4f47a45athub.io/.git/objects/4b/ (stored 0%)
+  120    adding: qfind.github.io/.g  adding: qfind.github.io/.g  addib321c9e1b1723fa  adding: qfind.github.io/.g  adding: qfind.githujects/d  adding: qfind.github.io/.g  adding: qfind.g/objects/d5/f7eae764f8c4c93f32b690f5be05fe1f8d55f5 (stored 0%)
+  121    adding: qfind.github.io/.git/objects/info/ (stored 0%)
+  122    adding: qfind.github.io/.git/objects/pack/ (store  adding: qfind.github.io/.git/objects/pack/ (sted 0%)
+  123    adding: q  adding: q  adding: q  adding: q  adding: q  adding: qfind.gi  adding: q  adding: q  adding: q  adding: q  addin: qfind.github.io/  adding: q  adding: q  adding: q  adding: q  addthub.io/.git/refs/remotes/origin/ (stored 0%)
+  124    adding: qfind.github.io/.git/refs/remotes/origin/master (stored 0%)
+  125    adding: qfind.g  adding: qfind.g  adding: qfind.g  adding: qfind.g  adding: qfind.g  adding: q 0%)
+  126    adding:  adding:  adding:  adding:  adding:  adding: qfind.git  adding:  adding:  adding:  adding:  adding:  adding: qfind.git  adding:  adding:  adding:  adding:  adding:  adding: qfind.git  adding:  adding:an  adding:  adding:  adding:  adding:  adding:  adding: qfind.git  adding:  adding:  adding:  adding:  adding:  adding: qfind.git  adding:  adding:  adding:  adding:  adding:  adding: qfind.git  adding:  adding:an  add_HEAD (stored 0%)
+  127  updatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatind7updatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatind7updatoks/applypatch-msg.sample (stored 0%)
+  128  updatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatind7updatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupda.sample (stored 0%)
+  129  updating: find7.github.io/.git/hooks/pre-applypatch.sample (stored 0%)
+  130  updating: find7.github.io/.git/updating: find7.github.io/.git/updating: find find7.github.io/.git/hooupdating: find7.github.io/.git/updating: find7.github.io/.git/updating: find find7.github.io/.git/hpdupdating: find7.github.io/.git/updating: find7.github.io/.git/updating: find find7.github.io/.git/hooupdating: find7.githe (stored 0%)
+  131  updating: find7.github.io/.git/index (stored 0%)
+  132  updating: find7.github.io/.git/info/ (stored 0%)
+  133  updating: find7.github.io/.git/info/exclude (stored 0%)
+  134  updating: find7.github.io/.git/logs/ (stored 0%)
+  135  updating: find7.github.io/.git/logs/HEAD (stored 0%)
+  136  updating: find7.github.io/.git/logs/refs/ (stored 0%)
+  137  upupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupuput/logs/refs/remoupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupuefs/remotes/upupupupupupupupupupupupupupupupupupupupupupupupupo/.git/objects/ (storupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupuput/logs/refs/remoupupupuio/.git/objects/01/ (stored 0%)
+  138  updating: find7.github.io/.git/objects/01/40cd87fea311a3f01918575d1e0dea643b5da7 (stored 0%)
+  139  updating: find7.github.io/.git/objupdating: find7.github.io/.git/obju7.github.io/.git/objects/06/23ae91bd1e0f7f32e4113bcb31b02b85622updating: find7.github.io/.git/objupdating: find7.gith/06/8de15f2111f2a44fba69c0628241e8bfdaef23 (stored updating: find7.github.io/.git/objupdating: find73e173097ae971bf00476416e09e72b2bec8 (stored 0%)
+  140  updating: find7.github.io/.git/objects/0a/ (stored 0%)
+  141  updating: find7.github.io/.git/objects/0a/38ca3302a8d80adccbbdef1376e4830efeeb7f (stored 0%)
+  142  updating: find7.github.io/.git/objects/0b/ (stored 0%)
+  143  updating: find7.github.io/.git/objects/0b/34e500ff5a1428e23d0db34fb89f67101f3d6b (stored 0%)
+  144  updating: find7.github.io/.git/objects/0c/ (stored 0%)
+  145  updating: find7.github.io/.git/objects/0c/13fbc96a0b53520343e78e41a0fe1d8d820cb9 (stored 0%)
+  146  updating: find7.github.io/.git/objects/0c/6f8a3ddad2e0c08d09e2de153bb30567550953 (stored 0%)
+  147  updating: find7.github.io/.git/objects/0c/89c17c54ccca6f10a5c1201f57e5b58c3a74c0 (stored 0%)
+  148  updating: find7.github.io/.git/objects/12/ (stored 0%)
+  149  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatu44a9a65c585bccd02 (stored 0%)
+  150  updating: find7.github.io/.git/objects/12/f7e8838524a85c81265fe96e2d1667bfd5448c (stored 0%)
+  151  updating: find7.github.io/.git/objects/13/ (stored 0%)
+  152  updatupdatupdatupdatupdatupdatupdatupdatupdatupdat11ff0a66e2updatupdatupdatupdatupdatupdatupdatupdatupdatupdagithub.io/.git/objects/14/ (stored 0%)
+  153  updatupdatupdatupdatupdatupdatupdatupdatupdatupdacff527e23b6updatupdatupdatupdatupdatupdatupdatupdatupdatupdagithub.io/.git/objects/19/ (stored 0%)
+  154  updatupdatupdatupdatupdatupdatupdatupdatupdatupda66ef0016cd1updatupdatupdatupdatupdatupdatupdatupdatupdatupda66ef0016cd1updatupdatupdatupdatupdatupdupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupda66ef0016cd1updatupdatupdatupdatupdatu)
+  155  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatu.git/objects/1e/e655e574cad412043c51be8bebbedc24f0a1be (stored 0%)
+  156  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupda/ updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatup20fd4f23aea8bd9 updatupdatupdatupdatupdatupdatupdatupdatupdatupdatup1/fupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatuts/24/9updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdat 0%)
+  157  updating: find7.github.io/.git/objects/28/0bc68edebef22cb743a499d976ca4e6108e66c (stored 0%)
+  158  updating: find7.github.io/.git/objects/2a/ (stored 0%)
+  159  updating: find7.github.io/.git/objects/2a/6e41c43ec5d7276afc4f959111f937e638f445 (stored 0%)
+  160  updating: find7.github.io/.git/objects/2c/ (stored 0%)
+  161  updating: find7.github.io/.git/objects/2c/0d7b070b7420a8f9ea32262d325a8dd5576df8 (stored 0%)
+  162  updating: find7.github.io/.git/objects/30/ updating: find7.github.io/.git/objects/30/ updating: find7.github.io/.git/objects/30/ updating: find7.github.io/.git/objects/ub.io/.git/objects/35/ (stored 0%)
+  163  updating: find7.github.io/.git/objects/35/22e739e3ab65d402cab6d7cae3abaae4929af1 (stored 0%)
+  164  updating: find7.github.io/.git/objects/35/311a5c533fbf04355f0de1a1a80c81007de462 (stored 0%)
+  165  updating: find7.github.io/.git/objects/36/ (stored 0%)
+  166  updating: find7.github.io/.git/objects/36/4a690be5fb81c5c08fa681fb6e104ac3e9d9cb (stored 0%)
+  167  updating: find7.github.io/.git/objects/36/5ebccc3b1e52eee4bcab2a514f4e7d5a0b3162 (stored 0%)
+  168  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdapdating: find7.github.io/.git/objects/38/ (stored 0%)
+  169  updating: find7.github.io/.git/objects/38/837795279c5eb281e98ce6017998b993026518 (stored 0%)
+  170  updatupdatupdatupdatupdatupdatupdatupdatu/ (stored 0%)
+  171  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatuatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatuatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatuatupupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupstored 0%)
+  172  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdit/objects/42/aupdatupdatupdatupdatupdatupdatupdatupdatupded 0%)
+  173  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdio/.git/objects/47/2updatupdatupdatupdatupdatupdatupdatupdatuored 0%)
+  174  updating: find7.github.io/.git/objects/47/8updating: find7.github.io/.git/objects/47/8updating: find7.github.io/.git/objects/47/8updating: find7.github.io/.git/objea6c2e3dd3 (stored 0%)
+  175  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatub.io/.git/objects/4a/2updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdab34201f97f41849c1cbb967392eece0 (stored 0%)
+  176  updating: find7.github.io/.git/objects/4c/ (stored 0%)
+  177  updating: find7.github.io/.git/objects/4c/1580b18a4a0ba1469475a56bb8495f324317f0 (stored 0%)
+  178  updating: find7.github.io/.git/objects/4e/ (stored 0%)
+  179  updating: find7.github.io/.git/objects/4e/4b83af441d7aa3677b9238ba978067dbb996e0 (stored 0%)
+  180  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatuating: find7.github.io/.git/objects/53/ (stored 0%)
+  181  updating: find7.github.io/.git/objects/53/052a2a080a4435ad4bf98feef0f4472b01da8b (stored 0%)
+  182  updating: find7.github.io/.git/objects/53/e76b472f46a5ebbfe18595a488b96e8113d698 (stored 0%)
+  183  updating: find7.github.io/.git/objects/56/ (stored 0%)
+  184  updating: find7.github.io/.git/objects/56/6updating: find7.github.io/.git/objects/56/6updating: find7.github.io/.git/objects/56/6updating: find7.github.io/.git/objects/56/6updating: find7.github.io/.git/objects/56/6updating: find7.gored 0%)
+  185  updating: find7.github.io/.git/objects/5a/ (stored 0%)
+  186  updating: find7.github.io/.git/objects/5a/0updating: find7.github.io/.git/objects/5a/0updating: find7.gitnd7.github.io/.git/objects/5b/ updating: find7.ging: find7.github.io/.git/objects/5b/6updating: find7.github.io/.git/objects/5a/0updating: find7.github.io/.git/object/objects/5b/bupdating: find7.github.io/.git/objects/5a/0updating: find7.github.io/.git/objects/5a/0updating: find7.gitnd7.github.io/.git/objects/5b/ updating: find7.ging: find7.github.io/.git/objects/5b/6updatingpdatupdating: find7.github.io/.git/objects/5a/0updating: find7.github.io/.git/objeit/objects/5d/2updating: find7.github.io/.git/objects/5a/0updating: find7.github.io/.git/objgit/objects/5e/ (stored 0%)
+  187  updating: find7.github.io/.git/objects/5e/fupdating: find7.github.io/.git/objects/5e/fupdating:dating: find7.github.io/.git/objects/5f/ (stored 0%)
+  188  updating: find7.github.io/.git/objects/5f/eb0c9f201e4aac8108d22472aa0cb6dbdbaf0d (stored 0%)
+  189  updating: find7.github.io/.git/objects/60/ (stored 0%)
+  190  updating: find7.github.io/.git/objects/60/df1ae0d5be7196d4756a1b73ff9b4e9fef94f0 (stored 0%)
+  191  updating: find7.github.io/.git/objects/64/ (stored 0%)
+  192  updating: find7.github.io/.git/objects/64/c3e3e0f7fe75ed55d94883be17344e409d0066 (stored 0%)
+  193  updating: find7.github.io/.git/objects/69/ (stored 0%)
+  194  updating: find7.github.io/.git/objects/69/4b3c201ddabd2a1b9d6e3e7bb895478c0d857c (stored 0%)
+  195  updating: find7.github.io/.git/objects/69/c2fc5238e61dc5f004347771a30ac41cc35044 (stored 0%)
+  196  updating: find7.github.io/.git/objects/74/ (stored 0%)
+  197  updating: find7.github.io/.git/objects/74/f4a7bcfb93b209fccbc3ee26028f2b40bcd5db (stored 0%)
+  198  updating: find7.github.io/.git/objects/75/ (stored 0%)
+  199  updating: find7.github.io/.git/objects/75/10f4176d56a0c9c4926017969a7a72e44050d2 (stored 0%)
+  200  updating: find7.github.io/.git/objects/79/ (stored 0%)
+  201  updating: find7.github.io/.git/objects/79/1updating: find7.github.io/.git/objects/79/1updating: find7.github.io/.git/object/objects/7a/ updating: find7.github.io/.git/objects/79/1updating:a/1updating: find7.github.io/.git/objects/79/1updating: find7.github.io/.git/objgit/objects/7b/ (stored 0%)
+  202  updating: find7.github.io/.git/objects/7b/2updating: find7.github.io/.git/objects/7b/2updating: find7.github.io/.git/objgit/objects/7f/ (stored 0%)
+  203  updating: find7.github.io/.git/objects/7f/0updating: find7.github.io/.git/objects/7f/0updating: find7.github.io/.git/object/objects/7f/4updating: find7.github.io/.git/objects/7f/0updating: find7.github.io/.git/ob.git/objects/80/ (stored 0%)
+  204  updating: find7.github.io/.git/objects/80/2updating: find7.github.io/.git/objects/80/2updating: find7.github.io/.git/objects/80/2us/80/5b0414d5c144a89d08c8342c8766c6b4725691 (stored 0%)
+  205  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupbjects/81/5e1aa25f22db7297e534e03a75d2566f4307c1 (stored 0%)
+  206  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatu 0%)
+  207  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdd7.github.io/.git/objects/90/2736b504dbc5bcf6300ce00b88a27da7423be1 (stored 0%)
+  208  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdcts/9a/ (stored 0%)
+  209  updating: find7.github.io/.git/objects/9a/dupdating: find7.github.io/.git/objects/9a/dupdating: find7.github.io/.git/objects/bjects/9a/e9673d6937bfd0c205443d21be1474d4d7edd0 (stored 0%)
+  210  updating: find7.github.io/.git/objects/9b/ updating: find7.github.io/.git/objects/9b/ updating: find7.github.io/.git/objects/9b/ updating: find7.github.io/.git/objects/9b/io/.git/objects/a0/ updating: find7.github.io/.git/objects/9b/ updating: find7.github.io/.git/objects/9b/ updating: find7.github.io/.git/objects/9b/ updait/objects/a1/ (stored 0%)
+  211  updating: find7.github.io/.git/objects/a1/b597db7d0a662b714c3982887097c4f1e7cb81 (stored 0%)
+  212  updating: find7.github.io/.git/objects/a5/ updating: find7.github.io/.git/objects/a5/ updating: find7.github.io/.gi5a62a10031c4f9dd8d0e (stored 0%)
+  213  updating: find7.github.io/.git/objects/a5/6updating: find7.github.io/.git/objects/a5/6updating: find7.github.io/.git/objects/a5/6updating: find7.github.io/.git/objects/a5/6updating: find7.github.io/.git/objects/a5/6uc6ae07fb29fa (stored 0%)
+  214  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatgit/objects/ab/1updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatgit/objects/ab/1updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatung: find7.github.io/.git/objects/b1/bupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdab1/e2de3629b595a75b08e5f5df58ad35d069500c (stored 0%)
+  215  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdats/be/bupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdaored 0%)
+  216  updating: find7.github.io/.git/objects/c8/ (stored 0%)
+  217  updating: find7.github.io/.git/objects/c8/5b3ae6ba6f2f980179a48e04c31a3d9ad5260e (stored 0%)
+  218  updating: find7.github.io/.git/objects/ca/ (stored 0%)
+  219  updating: find7.github.io/.git/objects/ca/4335528b759208eac5e97e5a36b8505135f580 (stored 0%)
+  220  updating: find7.github.io/.git/objects/cb/ (stored 0%)
+  221  updating: find7.github.io/.git/objects/cb/59310965d74785bbe81d230a80c01403a70594 (stored 0%)
+  222  updating: find7.github.io/.git/objects/cc/ (stored 0%)
+  223  updating: find7.github.io/.git/objects/cc/1212b51089a4e02bb92b579ec56649044a3332 updating: find7.github.io/.git/objects/cc/1212b51089a4e02bb92b579ec56649044a3332 updating: find7.github.io/.git/objects/cc/1212b51089a4e02bb92b579ec56649044a3332 updating: find7.github.io/.giobjects/d1/42eb57535d8ca269e24db7483700c125b6dbb8 (stored 0%)
+  224  updating: find7.github.io/.git/objects/d2/ (stored 0%)
+  225  updating: find7.github.io/.git/objects/d2/fba9928b1f2875391ade76dc9675084ea23dfd (stored 0%)
+  226  updating: find7.github.io/.git/objects/d6/ (stored 0%)
+  227  updating: find7.github.io/.git/objects/d6/dupdating: find7.github.io/.git/objects/d6/dupdating: find7.github.io/.git/object/objects/db/ updating: find7.github.io/.git/objects/d6/dupdatingdb/0updating: find7.github.io/.git/objects/d6/dupdating: find7.github.io/.git/objects/d6/dus/db/8updating: find7.github.io/.git/objects/d6/dupdati
+  228  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupgit/objects/dc/4updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupgit/objects/dc/4updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupda7.github.io/.git/objects/de/ (stored 0%)
+  229  updating: find7.github.io/.git/objects/de/4a567c6b4f91274eb0b628a79fbc0233251144 (stored 0%)
+  230  updating: find7.github.io/.git/objects/de/7updating: find7.github.io/.git/objects/de/7updatinupdatupdating: find7.github.io/.git/objects/de/7updating: find7.github.io/.git/objectred 0%)
+  231  updating: find7.github.io/.git/objects/df/ (stored 0%)
+  232  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdupdating: find7.github.io/.git/objects/e1/483d6951318d53d756a7ef182d912a65878a84 (stored 0%)
+  233  updating: find7.github.io/.git/objects/e2/ (stored 0%)
+  234  updating: find7.github.io/.git/objects/e2/aupdating: find7.github.io/.git/objects/e2/aupdating: find7.github.io/.git/objects/e2/aupdating: find7.github.io/.git/objects/e2/aupdating: find7.github.io/.git/objects/e2/aupdating: find7.github.io/.git/objects/e2/aupdating: find7.github.io/.git/objects/e2/aupdating: find7.github.io/.git/objects/e2/aupdating: find7.github.io/.git/objects/e20%)
+  235  updating: find7.github.io/.git/objects/ef/ (stored 0%)
+  236  updating: find7.github.io/.git/objects/ef/2updating: find7.github.io/.git/objects/ef/2updating: find7.github.io/.git/objects/ef/2updating: ored 0%)
+  237  updating: find7.github.io/.git/objects/f3/9d28fa005f24ced6a003ad5b0496689c05ce9a (stored 0%)
+  238  updating: find7.github.io/.git/objects/f7/ updating: find7.github.io/.git/objects/f7/ updating: find7.github086da337f5b47f09d7d6feab4b9 (stored 0%)
+  239  updating: find7.github.io/.git/objects/f8/ (stored 0%)
+  240  updating: find7.github.io/.git/objects/f8/e72dfd64a8ea783e56b3776f83ebffeca92e31 (stored 0%)
+  241  updating: find7.github.io/.git/objects/fb/ updating: find7.github.io/.git/objects/fb/ updating: find7.github.io/.git/objects/fb/ updating: find7.github.io/.git/objects/fb/ updating: find7.github.io/.git/objects/fb/ updating: find7.github.io/.git/objects/fb/ updating: find7.github.io/.git/objects/fb/ updating: find7.github.io/.giects/info/ (stored 0%)
+  242  updating: find7.github.io/.git/objects/pack/ (stored 0%)
+  243  updating: find7.githubupdating: find7.githubupdating: finding: find7.github.iupdating: find7.githubupdating: find7.githubupdating: finding: find7.github.iupdating: find7.githubuub.io/.git/refs/heads/master (stored 0%)
+  244  updatinupdatinupdatinupdatinupdatinupdatinupdatinupdatinupdatinupdatinupdatinupdatinuit/refs/remotesupdatinupdatinupdatinupdatinupdatinupdatinupdatinupdatinupdatinupdatinupdatinupdatinui 0%)
+  245  updating: find7.github.io/.git/refs/tags/ (stored 0%)
+  246  updupdupdupdupdupdupdupdupdupdupdupdupdupdured 0%)
+  247  updatinupdatinupdatinupdatinupdatinupdatinupdatinupdatinupdatinupdatinupdatinupdatin(stored 0%)
+  248  updaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupdaupda7.github.io/77700.html (stored 0%)
+  249  updating: find7.github.io/index.html (stored 0%)
+  250  updating: find7.github.io/jquery-1.8.3.min.js (stored 0%)
+  251  updating: find7.github.io/salary123-com.html (stored 0%updating: find7.github.io/salary123-com.html (stored d 0%updating: find7.github.io/salary123-com.html (stored 0%updating: find7.github.io/salary123-com.html (stor64e59fe7d9101df7fd3bc7e8c (stored 0%)
+  252    adding: find7.github.io/.git/objects/02/ (stored 0%)
+  253    adding: find7.gith  adding: find7.gith  adding: find7.gith  adding: find7.gith  adding: find7.gith  adding: find7.gith  adding: find7.gith  adding: find7.gith  adding: 952 (stored 0%)
+  254    adding: find7.github.io/.git/objects/02/d69df55c784ab145b9486d171a0ca42171f582 (stored 0%)
+  255    adding: find7.github.io/.git/object  adding: find7.github.io/.git/object  adding: find7.github.io/.git/object  adding: find7.2128ab  adding: find7.github.io/.git/object  adding: find7.github.io/.git/object  adding: find7.github.io/.git/object  adding: find7.2128ab  adding: find7.github.io/.git/object  afind7.github.io/.git/o  adding: find7.github.io/.git/object  adding: 9 (stored 0%)
+  256    adding: find7.github.io/.git/objects/06/6105  adding: find7.github.io/.git/objects/06/6105  adding: find7.github.io/.git/objects/06/6105  adding: find7.github.io/.git/obio/.git/objects/08/8665ef08667c124b4b0ef237a75a91272cef82 (stored 0%)
+  257    adding: find7.github.io/.git/objects/09/ (stored 0%)
+  258    add  add  add  add  add  add  add  add9/15d709e557810a2630  add  add  add  add  add  add  add  add9/15d709e557810a2630  add  add  add  add  add  add  add  add9/15d709e557810a2630  add  add  add  add  add  add  add  add9/15d709e557810a2630  addd  add  add  add  add  add  add  add  add9/15d709e557810a2630  add  add  add  add ed 0%)
+  259    add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  0aed674c6d6e47d3070f19b9793397d13693 (stored 0%)
+  260  cd   adding: qfind.github.io/.git/hooks/update.sample (stored 0%)
+  261    adding: qfind.github.io/.git/index (stored 0%)
+  262    adding: qfind.github.io/.git/info/ (stored 0%)
+  263    adding: qfind.github.io/.git/info/exclude (stored 0%)
+  264    adding: qfind.github.io/.git/logs/ (stored 0%)
+  265    adding: qfind.github.io/.git/logs/HEAD (stored 0%)
+  266    adding: qfind.github.io/.git/logs/refs/ (stored 0%)
+  267    adding: qfind.github.io/.git/logs/refs/heads/ (stored 0%)
+  268    adding: qfind.github.io/.git/logs/refs/heads/master (stored 0%)
+  269    adding: qfind.github.io/.git/logs/refs/remotes/ (stored 0%)
+  270    adding: qfind.github.io/.git/logs/refs/remotes/origin/ (stored 0%)
+  271    adding: qfind.github.io/.git/logs/refs/remotes/origin/master (stored 0%)
+  272    adding: qfind.github.io/.git/objects/ (stored 0%)
+  273    adding: qfind.github.io/.git/objects/15/ (stored 0%)
+  274    adding: qfind.github.io/.git/objects/15/71814a2eb63b2bef81beff6683cfb22d41c420 (stored 0%)
+  275    adding: qfind.github.io/.git/objects/1c/ (stored 0%)
+  276    adding: qfind.github.io/.git/objects/1c/4f47a45ab9efd6e3c028d1f4b9c4451827684f (stored 0%)
+  277    adding: qfind.github.io/.git/objects/4b/ (stored 0%)
+  278    adding: qfind.github.io/.g  adding: qfind.github.io/.g  adding: qfinb1723fa  addingred 0%)
+  279    adding: qfind.github.io/.git/objects/d5/ (stored 0%)
+  280    adding: qfind.github.io/.git/obj  adding: qfind.github.io/.git/obj  adding: qfind.gred 0%)
+  281    adding: qfind.github.io/.git/objects/info/ (st  adding: qfind.github.io/.git/objects/info/ (st  addinstored 0%)
+  282    adding: qfind.github.io/.git/refs/ (stored 0%)
+  283    adding: q  adding: q  adding: q  adding: q  adding: q  adding: q  nd.gi  adding: q  adding: q  adding: q  adding:   adding: qfind.github.io/  adding: q  adding: q  adding: q  adding: q  addingb.io/.git/refs/remotes/  adding: q  adding: q  adding: ind.github.io/.git/r  adding: q  adding: q  adding: q  adding: q  adqfind.g  adding: q  adding: q  adding: q  adding: q  adding: q  adding: q  nd.gi  ared 0%)
+  284    adding: qfind.github.io/_.html (stored 0%)
+  285    adding: qfind.git  adding: qfind.git  adding: qfind.git  adding: qfind.git  addid 0%)
+  286  updating: find7.github.iupdating: find7.github.iupdating: find7.gitio/.git/branupdating: find7.github.iupdating: find7.github.iupdating: find7.gitio/.git/branuping: find7.gupdating: find7.github.iupdating: find7.github.iupdahubupdating: find7.github.iupdating: find7.github.iupdating: find7.gitio/.git/branupd 0%)
+  287  updatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdat find7.github.io/.git/hooks/applypatch-msg.sample (stored 0%)
+  288  updatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdatiupdat find7.github.io/.git/hooks/applypatch-msg.samphub.io/.git/hooks/pre-applypatch.sample (stored 0%)
+  289  updating: find7.github.io/.git/hooks/pre-commit.sample (stored 0%)
+  290  updating: find7.github.io/.git/hooks/pre-push.sample (stored 0%)
+  291  updating: find7.github.io/.git/hooks/pre-rebase.sample (stored 0%)
+  292  updating: find7.github.io/.git/hooks/prepare-comupdating: find7.github.io/.git/hooks/prepare-comupdating: find7.github.sample (stored 0%updating: find7.github.io/.git/hooks/prepare-comupdating: find7.github.io/.git/hooks/prepare-comupdating: find7.github.sample (stored 0%updlude (stored 0%)
+  293  updating: find7.github.io/.git/logs/ (stored 0%)
+  294  updating: find7.github.io/.git/logs/HEAD (stored 0%)
+  295  updating: find7.github.io/.git/logs/refs/ (stored 0%)
+  296  upupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupumoupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupupumoupupupupupupupupupupupupupupupuptored 0%)
+  297  updating: find7.github.io/.git/objects/00/ (stored 0%)
+  298  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupda7ae0351e939updatupdatupdatupdatupdatupdatupdatupdatupdatupd/.git/objects/01/ (updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupda7ae0351e939updatupdatupdatupdatupdatupdatupdatupdatupdatupd/.git/objects/01/ (updatupdatupdored 0%)
+  299  updating: find7.github.io/.git/objects/06/23ae91bd1e0f7f32e4113bcb31b02b85622469 (stored 0%)
+  300  updating: find7.github.io/.git/objects/06/8de15f2111f2a44fba69c0628241e8bfdaef23 (stored updating: find7.github.io/.git/objects/06//06/fa83e173097ae971bf00476416e09e72b2bec8 (stored 0%)
+  301  updating: updating: updating: updating: updating: updating: updating: updating: updating: updating: updating: updating: updating: updating: updating: updating: updating: updating: updating: updating: updating: updfind7.github.io/.git/objects/0b/34e500ff5a1428e23d0db34fb89f67101f3d6b (stored 0%)
+  302  updating: find7.github.io/.git/objects/0c/ (stored 0%)
+  303  updating: find7.github.io/.git/objects/0c/13fbc96a0b53520343e78e41a0fe1d8d820cb9 (stored 0%)
+  304  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatu5a28eupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatua2d0915dacb13f444a9a65c585bccd02 (stored 0%)
+  305  updating: find7.github.io/.git/objects/12/f7e8838524a85c81265fe96e2d1667bfd5448c (stored 0%)
+  306  updating: find7.github.io/.git/objects/13/ (stored 0%)
+  307  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatithub.io/.git/objects/14/d35ea8acff527e23b61d2ddca200be5967e987 (stored 0%)
+  308  updating: find7.github.io/.git/objects/19/ (stored 0%)
+  309  updatupdatupdatupdatupdatupdatupdatupdatupdatu3da66ef0016cd1updatupdatupdatupdatupdatupdatupdatupdatu: find7.github.io/.git/objects/1b/ (stored 0%)
+  310  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatu74cad412043c51be8bebbedc24f0a1be (stored 0%)
+  311  updating: find7.github.io/.git/objects/20/ (stored 0%)
+  312  updating: find7.github.io/.git/objects/20/5b52dab7f6bca7c9dda6c7b6db012bbea09a4a (stored 0%)
+  313  updating: find7.github.io/.git/objects/21/ updating: find7.github.io/.git/objects/21/ updating: find7.github.io/.git/objecfd4f23aea8bd9 updating: find7.github.io/.git/objects/21/ updating21/fupdating: find7.github.io/.git/objects/21/ updating: find7.github.io/.git/objects/21/ updating: find7.github.io/.git/objecfd4f23aea8bd9 updating: find7.github.io/.git/objects/21/ updating21/fupdating: find7.github.io/.git/o/.git/objects/28/ (stored 0%)
+  314  updating: find7.github.io/.git/objects/28/0updating: find7.github.io/.git/objects/28/0updating: find7.github.io/.git/objects/28/0updating: find7.github.io/g: find7.github.io/.git/objects/2a/6updating: find7.github.io/.git/objects/28/0updating: find7.github.io/.git/objects/28/0updating: find7.github.io/.git/objects/28/0updating: find7.github.io/g: fi8f9ea32262d325a8dd5576df8 (stored 0%)
+  315  updating: find7.github.io/.git/objects/30/ (stored 0%)
+  316  updating: find7.github.io/.git/objects/30/7updating: find7.github.io/.git/objects/30/7updating: find7.github.io/.git/objects/30ects/35/ updating: find7.github.io/.git/objects/30/7updating: find7.github.io/.git/objects/30/7updating: find7.github.io/.git/objects/30ects/35/ updating: find7.github.io/.git/objects/30/7updating: find7.github.io/.git/objects/30/7updating: find7.github.io/.git/objects/30ects/35/ updating: find7.github.io/.git/objects/30/7updating: find7.github.io/.git/objects/30/7updating: find7.github.io/.git/objects/30ects/35/ updating: find7.github.io/.git/obdatupdating: find7.github.io/.git/objects/30/7updating: find7.github.io/.git/objects/30/7updating: find7.github.io/.git/objects/30ects/35/ updating: find7.github.io/.git/objects/30/7updating: find7.github.io/.git/objects/30/7updating: find7.github.io/.git/objects/30ects/35/ updating: find7.github.io/.git/objects/30/7updating: find7.github.io/.git/objects/30/7updating: find7.tored 0%)
+  317  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupd)
+  318  updating: find7.github.io/.git/objects/3f/df9e4e6419826cdad4edb614cb26434c5dbea2 (stored 0%)
+  319  updating: find7.github.io/.git/objects/41/ (stored 0%)
+  320  updating: find7.github.io/.git/objects/41/c1b128039a7ddbc8602c1163b697ee1a6667e4 (stored 0%)
+  321  updating: find7.github.io/.git/objects/42/ (stored 0%)
+  322  updating: find7.github.io/.git/objects/42/a25cfa54ffb6937e95a41eb9838ddab623ed3e (stored 0%)
+  323  updating: find7.github.io/.git/objects/47/ (stored 0%)
+  324  updating: find7.github.io/.git/objects/47/2c3069731560a36777c62447a6eff002ccc8a1 (stored 0%)
+  325  updating: find7.github.io/.git/objects/47/8e4fbf5e0a4c4812dba7aa661cd9671ba4f6af (stored 0%)
+  326  updating: find7.github.io/.git/objects/47/a63ff6a3179812f5ed147a31a7f63a6c2e3dd3 (stored 0%)
+  327  updating: find7.github.io/.git/objects/4a/ (stored 0%)
+  328  updating: find7.github.io/.git/objects/4a/219903358e5288ce27365553d5ee1ebef34f8c (stored 0%)
+  329  updating: find7.github.io/.git/objects/4a/ddfa84db34201f97f41849c1cbb967392eece0 (stored 0%)
+  330  updating: find7.github.io/.git/objects/4c/ (stored 0%)
+  331  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatup
+  332  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdaa3677b9238ba978067dbb996e0 (stored 0%)
+  333  updating: find7.github.io/.git/objects/4f/ (stored 0%)
+  334  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdaored 0%)
+  335  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatu)
+  336  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupd 0%)
+  337  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupd/56/623fdfa14cd24871643269382512edf1b66633 (stored 0%)
+  338  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdating: find7.github.io/.git/objects/58/eupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdating: find7.githubgit/objects/5a/ (stored 0%)
+  339  updating: find7.github.io/.git/objects/5a/0updating: find7.github.io/.git/objects/5a/0updating: find7.github.io/.git/object/objects/5b/ (stored 0%)
+  340  updating: find7.github.io/.git/objects/5b/6cceedf438e48774de233565c7ee0f41e63a59 (stored 0%)
+  341  updating: find7.github.io/.git/objects/5b/b91e62a6e582175e9cf52cf5e914d7fd7bd1ef (stored 0%)
+  342  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupbjects/5c/ee326ce8e11178b7502234b981cc7ad57723de (stored 0%)
+  343  updating: find7.github.io/.git/objects/5d/ (stored 0%)
+  344  updating: find7.github.io/.git/objects/5d/274defe467dbd236a31116f6db4122f90fa97c (stored 0%)
+  345  updating: find7.github.io/.git/objects/5e/ updating: find7.github.io/.git/objects/5e/ updating: find7.github.io/.git/objects/5e/ updating: find7.github.io/.git/objects/5e/ updgit/objects/5f/ updating: find7.github.io/.git/objects/5e/ updating: find7.github.io/.git/objects/5e/ updating: find7.github.io/.git/objects/5e/ updating: fits/60/ (stored 0%)
+  346  updating: find7.github.io/.git/objects/60/dupdating: find7.github.io/.git/objects/60/dupdating: find7.github.io/.git/objects/60/dupdating: find7.github.io/.git/objects/60/dupdating: find7.4/cupdating: find7.github.io/.git/objects/60/dupdating: find7.github.io/.git/object/objects/69/ updating: find7.github.io/.git/objects/60/dupdating: find7.github.io/.git/objects/60/dud857c updating: find7.github.io/.git/objects/60/dupdating: find7.github.io/.git/objects/60/dupdating: find7.github.io/.git/objects/60/dupdatinobjects/74/ updating: find7.github.io/.git/objects/60/dupdacts/74/fupdating: find7.github.io/.git/objects/60/dupdating: find7.github.io/.git/objects/60ects/75/ updating: find7.github.io/.git/objects/60/dupdating: find7.github.io/.git/objects/60/dupdating: find7.github.io/.git/objects/60/dupdating: find7.github.io/.git/updating: find7.github.io/.git/objects/79/16146d9d389161716f42beb82dba820d4fdfa0 (stored 0%)
+  347  updating: find7.github.io/.git/objects/7a/ (stored 0%)
+  348  updating: find7.github.io/.git/objects/7a/1updating: find7.github.io/.git/objects/7a/1updating: find7.github.io/.git/objects/7a/1updating: ored 0%)
+  349  updating: find7.github.io/.git/objects/7b/264fe928ec1bb6f1810eb7e1de40467fcf5b32 (stored 0%)
+  350  updating: find7.github.io/.git/objects/7f/ (stored 0%)
+  351  updating: find7.github.io/.git/objects/7f/0a43d5daf690a3beb0c44f711ce67020edd291 (stored 0%)
+  352  updating: find7.github.io/.git/objects/7f/4ac2d31e07f0b86768083663c384f847694786 (stored 0%)
+  353  updating: find7.github.io/.git/objects/80/ (stored 0%)
+  354  updating: find7.github.io/.git/objects/80/2f9129f2bbad555dc0bfe4f057292445f022d3 (stored 0%)
+  355  updating: find7.github.io/.git/objects/80/5b0414d5c144a89d08c8342c8766c6b4725691 (stored 0%)
+  356  updating: find7.github.io/.git/objects/81/ (stored 0%)
+  357  updating: find7.github.io/.git/objects/81/5e1aa25f22db7297e534e03a75d2566f4307c1 (stored 0%)
+  358  updating: find7.github.io/.git/objects/85/ (stored 0%)
+  359  updating: find7.github.io/.git/objects/85/0updating: find7.github.io/.git/objects/85/0updatinupdatupdating: find7.github.io/.git/objects/85/0updating: find7.github.io/.git/objects/85/0updatinupdatupdating:04d4f9e3b0e7930f9011ef4 (stored 0%)
+  360  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatu/2updatupdatupdatupdatupdatupdatupdatupdatupred 0%)
+  361  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatu.git/objects/98/5updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdat/.git/objects/9a/ (stored 0%)
+  362  updating: find7.github.io/.git/objects/9a/dupdating: find7.github.io/.git/objects/9a/dupdating: find7.github.io/.git/objects/9a/dup/9a/e9673d6937bfd0c205443d21be1474d4d7edd0 (stored 0%)
+  363  updating: find7.github.io/.git/objects/9b/ (stored 0%)
+  364  updating: find7.github.io/.git/objects/9b/1updating: find7.github.io/.git/objects/9b/1updating: find7.github.iothub.io/.git/objects/a0/ updating: find7.github.io/.git/objects/9b/1updatis/a0/8updating: find7.github.io/.git/objects/9b/1updating: find7.github.io/.git/objects/9b/1updating: find7.github.iing: find7.github.io/.git/objects/a1/b597db7d0a662b714c3982887097c4f1e7cb81 (stored 0%)
+  365  updating: find7.github.io/.git/objects/a5/ updating: find7.github.io/.git/objects/a5/ updating: find7.github.io/.git/obje0031c4f9dd8d0e (stored 0%)
+  366  updating: find7.github.io/.git/objects/a5/6updating: find7.github.io/.git/objects/a5/6updating: find7.github.io/.git/objects/a5/6updating: find 0%)
+  367  updating: find7.github.io/.git/objects/a7/849886a35ba4f7891ea88b1897c6ae07fb29fa (stored 0%)
+  368  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupd79 (stored 0%)
+  369  updating: find7.github.io/.git/objects/ab/ (stored 0%)
+  370  updating: find7.github.io/.git/objects/ab/1updating: find7.github.io/.git/objects/ab/1upd0%)
+  371  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupda/b1/bupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatf58ad35d069500c (stored 0%)
+  372  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdaa9e695f7f5484ecf4e8a48b565 (stored 0%)
+  373  updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdat/.git/objects/be/bupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdat/.git/objec/ updatupdatupdatupdatupdatupdatupdatupdatupdatupdas/c3/eupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdat/objects/c8/ updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdat/.git/objects/be/bupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdat/.git/objec/ updatupdatupdatupdatupdatupdatupdatupdatupdatupdas/c3/eupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdat/objects/c8/ updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdat/.git/objects/be/bupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdat/.git/objec/ 4a3332 updatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdatupdat/.git/objects/be/bupdatupdatupdatupdatupdatupdatupdatupdatupdatupd/ ffecd152fa38734deb1bec373 (stored 0%)
+  374    adding: find7.github.io/.git/objects/1c/ (stored 0%)
+  375    adding: find7.github.io/.git/objects/1c/1a32847f9d09b97ca45d1512a6b269d3ca60c0 (stored 0%)
+  376    adding: find7.github.io/.git/objects/1d/ (stored 0%)
+  377    adding: find7.github.io/.git/objects/1d/876f1815addaa6a10fc4be5e4d250914cfc5f9 (stored 0%)
+  378    adding: find7.github.io/.git/objects/21/6acaffc17657f5dbc991d1874ee79cbec29312 (stored 0%)
+  379    adding: find7.github.io/.git/objects/21/85d617f3f5f0d15405eed5daebb69d22e69b28 (stored 0%)
+  380    adding: find7.github.io/.git/objects/22/ (stored 0%)
+  381    adding: find7.github.io/.git/objects/22/acfd627a1f26d7f5df71d7bb8f6f7dafae16d5 (stored 0%)
+  382    adding: find7.github.io/.git/objects/23/ (stored 0%)
+  383    adding: find7.github.io/.git/objects/23/09ff15bbab5d7d6bd184fcfe5e442ee83e0379 (stored 0%)
+  384    adding: find7.github.io/.git/objects/25/ (stored 0%)
+  385    adding: find7.github.io/.git/objects/25/16dc8dcd82467d5b0adc2bbd2b9f7ed4d50f3a (stored 0%)
+  386    adding: find7.github.io/.git/objects/26/ (stored 0%)
+  387    adding: find7.github.io/.git/objects/26/9776395bd517ee286ebc10f3eff782242a17a7 (stored 0%)
+  388    adding: find7.github.io/.git/objects/28/177fb6dd0d5b4ced6b8bedbde39cad11a4c535 (stored 0%)
+  389    add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add (stored 0%)
+  390    add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  atored 0%)
+  391    adding: find7.github.io/.git/objects/2a/93e7078384bf4f456196f7008b19034f2fb401 (stored 0%)
+  392    add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  addred 0%)
+  393    add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  ad7 (stored 0%)
+  394    add  add  add  add  add  add  add  add  add  add  add  adding: find7.github.io/.git/objects/2e/ba0f89c10f344450423f2f3cf674ae989902b7 (stored 0%)
+  395    adding: find7.github.io/.git/objects/31/ (stored 0%)
+  396    add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  d 0%)
+  397    add  add  add  add  add  add  add  add  add  add  add  add  add  add7aba3eb9af (stored 0%)
+  398    add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  ad/ (stored 0%)
+  399    add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  ad adding: find7.github.io/.git/objects/36/067d9a38bc95afb34c9529b1f8de087836ead3 (stored 0%)
+  400    add  add  add  add  add  add  add  add  add  add  add  addf3a294f1f17633da1139 (stored 0%)
+  401    adding: find7.github.io/.git/objects/37/ (stored 0%)
+  402    add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  ding: find7.github.io/.git/objects/37/d3ec9a498e05302033  add  add  add  add  add  add  add  add  add  add  add  add  add  add  add  addred 0%)
+  403  b
+  404  tail -n5
+  405  tail -n5 ~/.bash_profile 
+  406  tail -n1 ~/.bash_profile 
+  407  tail -n1 ~/.bash_profile |sh
+  408  2
+  409  ssh  140.109.8.77
+  410  b
+  411  tail -n3,4 ~/.bash_profile 
+  412  tail -n3:4 ~/.bash_profile 
+  413  tail -n3 -m4 ~/.bash_profile 
+  414  b
+  415  b2
+  416  2
+  417  1
+  418  py
+  419  htdocs
+  420  ls
+  421  u
+  422  ls
+  423  cd xampp 
+  424  ls
+  425  sudo /Applications/XAMPP/xamppfiles/xampp security
+  426  ls
+  427  cd htdocs/
+  428  ls
+  429  mysql -uroot -p wordpress < ~/Downloads/foundation.datasci.tw.sql
+  430  ls -alh ~/Downloads/foundation.datasci.tw.sql
+  431  ls
+  432  cd foundation
+  433  ls
+  434  vim db_user_pwd.php
+  435  vim db_user_pwd.php 
+  436  gs
+  437  gi
+  438  gs
+  439  ga .
+  440  gs
+  441  gc -m init
+  442  vim wp-config.php 
+  443  gs
+  444  ga wp-config.php 
+  445  gs
+  446  gdd
+  447  gs
+  448  gc -m 'enhance wp-config.php DB user password'
+  449  gs
+  450  ping http://foundation.datasci.tw/
+  451  ping foundation.datasci.tw
+  452  ls
+  453  cp ~/Downloads/foundation.datasci.tw.sql ~/Downloads/foundation.dev.sql
+  454  vim ~/Downloads/foundation.dev.sql 
+  455  ls
+  456  grep -rn 'foundation.datasci.tw' .
+  457  cd wp-content/
+  458  grep -rn 'foundation.datasci.tw' .
+  459  vim -p ./themes/bridge/js/default_dynamic.js ./themes/bridge/js/default_dynamic.js ./themes/bridge/style.css
+  460  cd ..
+  461  u
+  462  cd foundation
+  463  grep -rn 'foundation.datasci.tw' .
+  464  ls
+  465  gs
+  466  vim wp-config.php 
+  467  grep -rn 'foundation.datasci.tw' .
+  468  ls
+  469  vim wp-config.php 
+  470  gs
+  471  gd wp-config.php 
+  472  gs
+  473  ga wp-config.php 
+  474  ga wp-content/
+  475  gs
+  476  gdd
+  477  gs
+  478  gc -m 'Use relative path'
+  479  <IfModule mod_rewrite.c>
+  480  RewriteEngine On
+  481  RewriteBase /
+  482  RewriteRule ^index\.php$ - [L]
+  483  RewriteRule . /index.php [L]
+  484  </IfModule>
+  485  b
+  486  1
+  487  2
+  488  ls
+  489  2
+  490  2
+  491  ls
+  492  2
+  493  2
+  494  cd github/aqutw
+  495  b
+  496  mkd enzyme-lab
+  497  vim README.md
+  498  cp ~/.gitignore .
+  499  ls
+  500  cat .gitignore 
+  501  gs
+  502  gl
+  503  gs
+  504  gl
+  505  gl
+  506  ls
+  507  gs
+  508  vim 53999.html
+  509  vim 999.html 
+  510  vim 234.html 
+  511  ff
+  512  gs
+  513  gs
+  514  gs
+  515  gs
+  516  ga .
+  517  gc -m 1
+  518  pwd >> iterm_record.txt && history >> iterm_history.txt
