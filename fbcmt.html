@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <title>Facebook 討論串</title>
+</head>
+<body>
+<div id=fb-root></div>
+<h3 id=y></h3>
+<div id=x></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+function _(a){return document.getElementById(a)}
+l=location.href;
+b=l.split('b=')[1].split('&');
+u=l.split('u=')[1].split('&');
+o=l.split('o=')[1].split('&');if(o.indexOf('.pixnet.net/blog')&&o.indexOf('m=off')===-1){o+='?m=off'}
+q=l.split('?')[1]
+_('x').innerHTML='<div class="fb-comments" data-href="https://www.pixnet.net/?b='+b+'&u='+u+'" data-width="320" data-numposts="5"></div>';
+_('y').innerHTML='您正在 <a href='+o+'>'+o+'</a> 的討論串'
+</script>
+</body>
+</html>
