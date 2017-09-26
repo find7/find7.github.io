@@ -14,7 +14,7 @@ var t=t1.val(),
 if(t){for(var k in a){
   if( a[k].toLowerCase().indexOf(t.toLowerCase())>=0 ){
     var c = a[k].split('`');
-    z+='<a target=_blank href=http://salary9.pixnet.net/blog/post/'+c[1]+'?m=off>'+c[0]+'</a><br>';
+    z+='<a target=_blank href=//'+A+c[1]+'>'+c[0]+'</a><br>';
   }
 }}
 y.html(z);
